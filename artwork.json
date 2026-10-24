@@ -82,6 +82,15 @@
     "status": "Available for Auction"
   },
   {
+    "title": "Still Life 2",
+    "artist": "Brian Lu",
+    "branch": "Toronto",
+    "medium": "Graphite on paper",
+    "description": "TBD",
+    "image": "artwork/Still Life 2.jpg",
+    "status": "Available for Auction"
+  },
+  {
     "title": "Color Study With Bust",
     "artist": "Gloria Xu",
     "branch": "Toronto",
@@ -98,6 +107,15 @@
     "dimensions": "38 × 56 cm",
     "description": "This realism bust sketch was created to improve my drawing technique. I focused on accurate proportions, facial structure, and realistic shading using graphite. Through this piece, I practiced creating depth and three-dimensional form while improving my ability to observe and translate realistic features onto paper.",
     "image": "artwork/GloriaXu- Bust Sketch.jpg",
+    "status": "Available for Auction"
+  },
+  {
+    "title": "Still Life",
+    "artist": "Brian Lu",
+    "branch": "Toronto",
+    "medium": "Graphite on paper",
+    "description": "TBD",
+    "image": "artwork/Still Life.jpg",
     "status": "Available for Auction"
   },
   {
@@ -119,6 +137,15 @@
     "status": "Available for Auction"
   },
   {
+    "title": "Tea cup",
+    "artist": "Brian Lu",
+    "branch": "Toronto",
+    "medium": "Colored pencil on paper",
+    "description": "TBD",
+    "image": "artwork/Tea cup.jpeg",
+    "status": "Available for Auction"
+  },
+  {
     "title": "Study of Rene Vaile's ‘Erratic’",
     "artist": "Gloria Xu",
     "branch": "Toronto",
@@ -134,33 +161,6 @@
     "medium": "Acrylic on canvas",
     "description": "TBD",
     "image": "artwork/Silver Citrus And Lilies.png",
-    "status": "Available for Auction"
-  },
-  {
-    "title": "Still Life",
-    "artist": "Brian Lu",
-    "branch": "Toronto",
-    "medium": "Graphite on paper",
-    "description": "TBD",
-    "image": "artwork/Still Life.jpg",
-    "status": "Available for Auction"
-  },
-  {
-    "title": "Still Life 2",
-    "artist": "Brian Lu",
-    "branch": "Toronto",
-    "medium": "Graphite on paper",
-    "description": "TBD",
-    "image": "artwork/Still Life 2.jpg",
-    "status": "Available for Auction"
-  },
-  {
-    "title": "Tea cup",
-    "artist": "Brian Lu",
-    "branch": "Toronto",
-    "medium": "Colored pencil on paper",
-    "description": "TBD",
-    "image": "artwork/Tea cup.jpeg",
     "status": "Available for Auction"
   }
 ]

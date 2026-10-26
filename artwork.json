@@ -162,5 +162,23 @@
     "description": "TBD",
     "image": "artwork/Silver Citrus And Lilies.png",
     "status": "Available for Auction"
+  },
+  {
+    "title": "Unbridled",
+    "artist": "Gloria Xu",
+    "branch": "Toronto",
+    "medium": "Oil on canvas",
+    "description": "A symbol of untamed freedom, the horse embodies the longing to exist without fear or restraint. Through flowing brushstrokes and blurred colours, its form becomes less about the physical and more about the feeling of a spirit that cannot be contained.",
+    "image": "Unbridled_1.jpeg",
+    "status": "Available for Auction"
+  },
+  {
+    "title": "Forest Walk",
+    "artist": "Andrea Chanady",
+    "branch": "Toronto",
+    "medium": "Watercolour on paper",
+    "description": "Take a walk through the Oak Ridges Moraine trail during the peak of summer.",
+    "image": "IMG_5522.jpg",
+    "status": "Available for Auction"
   }
 ]
